@@ -37,6 +37,7 @@ A collection of possible interview questions for ASIC PD position
 
 # 7.简单介绍下ASIC设计从前端到后端的流程，以及每个阶段用到的EDA工具。
 
+<http://www.asic-world.com/verilog/design_flow1.html>
 
 # 8.简单介绍下你对逻辑综合的理解。
 
