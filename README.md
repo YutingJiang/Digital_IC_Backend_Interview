@@ -90,3 +90,7 @@ clock skew和clock uncertainty基本上没有任何关系。uncertainty是指jit
 # 17.时钟树上使用inverter和buffer的区别？
 
 <https://vlsi-soc.blogspot.com/2014/12/inverter-vs-buffer-based-clock-tree.html>
+
+# 18.什么是Power Gating？如何实现Power Gating？、
+
+<https://vlsi-soc.blogspot.com/2012/08/power-gating.html>
