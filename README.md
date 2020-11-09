@@ -86,3 +86,7 @@ clock skew和clock uncertainty基本上没有任何关系。uncertainty是指jit
 <https://www.cnblogs.com/lelin/p/11385982.html>
   
 <https://vlsibasic.blogspot.com/2014/07/cpprcommon-clock-pessimism-removal_25.html>
+
+# 17.时钟树上使用inverter和buffer的区别？
+
+<https://vlsi-soc.blogspot.com/2014/12/inverter-vs-buffer-based-clock-tree.html>
