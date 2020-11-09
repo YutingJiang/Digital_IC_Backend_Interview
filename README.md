@@ -1,11 +1,14 @@
 # Digital_IC_Backend_Interview 数字后端面试题精选（附参考答案）
 A collection of possible interview questions for ASIC PD position
+
+
 ---
 
-
+  
+  
 # 1.setup和hold time、transition time的概念； 
   
-  
+  <https://only-vlsi.blogspot.com/2008/04/setup-and-hold-time.html>
 # 2.跨时钟域信号传输的方法；  
 
 # 3.STA中Constraints有哪些内容，是怎么实现的；  
