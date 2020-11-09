@@ -98,3 +98,7 @@ clock skew和clock uncertainty基本上没有任何关系。uncertainty是指jit
 # 19.什么是亚稳态？如何避免亚稳态？
 
 <http://www.asic-world.com/tidbits/metastablity.html>
+
+# 20.什么是CrossTalk？如何减小CrossTalk？
+
+<https://vlsibasic.blogspot.com/2014/10/pd-interview-questiona-sta.html>
