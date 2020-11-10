@@ -41,6 +41,7 @@ A collection of possible interview questions for ASIC PD position
 
 # 8.简单介绍下你对逻辑综合的理解。
 
+<https://blog.csdn.net/bleauchat/article/details/97786529>
 
 # 9.STA中，clock skew的概念，如何消除skew？
 
@@ -55,6 +56,8 @@ A collection of possible interview questions for ASIC PD position
 （3）采用inv，而不是buffer，因为缩短时钟树长度有利于减少skew。
 
 # 10.综合过程中的clock是怎么定义的？
+
+<https://www.cnblogs.com/lelin/p/12652063.html>
 
 # 11.如果综合中timing比较差，有哪些优化的方法？
 
