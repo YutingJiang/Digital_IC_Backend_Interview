@@ -106,3 +106,7 @@ clock skew和clock uncertainty基本上没有任何关系。uncertainty是指jit
 # 20.什么是CrossTalk？如何减小CrossTalk？
 
 <https://vlsibasic.blogspot.com/2014/10/pd-interview-questiona-sta.html>
+
+# 21.Clock Buffer和普通Buffer的区别是什么？
+
+<https://vlsiuniverse.blogspot.com/2017/12/what-is-difference-between-normal.html>
