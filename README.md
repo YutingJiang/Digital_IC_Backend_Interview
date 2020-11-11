@@ -110,3 +110,7 @@ clock skew和clock uncertainty基本上没有任何关系。uncertainty是指jit
 # 21.Clock Buffer和普通Buffer的区别是什么？
 
 <https://vlsiuniverse.blogspot.com/2017/12/what-is-difference-between-normal.html>
+
+# 22.同步逻辑和异步逻辑的区别？
+
+<https://blog.csdn.net/pang123hui/article/details/6006363>
