@@ -57,6 +57,7 @@ A collection of possible interview questions for ASIC PD position
 
 # 10.综合过程中的clock是怎么定义的？
 
+<https://zhuanlan.zhihu.com/p/138104862>
 <https://www.cnblogs.com/lelin/p/12652063.html>
 
 # 11.如果综合中timing比较差，有哪些优化的方法？
