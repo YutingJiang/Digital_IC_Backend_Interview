@@ -4,6 +4,10 @@ A collection of possible interview questions for ASIC PD position
 
 ---
 
+
+# 推荐一个Youtube博主，印度哥，没字幕，听懂可能有点困难，但讲的挺好的
+
+<https://www.youtube.com/user/birdyVJ>
   
   
 # 1.setup和hold time、transition time的概念； 
