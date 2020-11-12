@@ -62,11 +62,13 @@ A collection of possible interview questions for ASIC PD position
 # 10.综合过程中的clock是怎么定义的？
 
 <https://zhuanlan.zhihu.com/p/138104862>
+
 <https://www.cnblogs.com/lelin/p/12652063.html>
 
 # 11.如果综合中timing比较差，有哪些优化的方法？
 
 <https://www.cnblogs.com/xh13dream/p/8697832.html>
+
 <https://www.cnblogs.com/iclearner/p/6636176.html>
 
 # 12.实际的综合或STA中，skew如何影响setup和hold检查？有setup/hold violation的话如何调skew？
